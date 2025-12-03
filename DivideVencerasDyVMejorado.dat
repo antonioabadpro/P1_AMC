@@ -1,0 +1,9 @@
+ Fichero creado por Antonio Abad Hernandez Galvez
+
+           DivideVenceras   DyVMejorado      DivideVenceras   DyVMejorado     
+Talla      Tiempo (ms)      Tiempo (ms)      Calculadas       Calculadas      
+1000       2,788520         3,672622         130126           32654            
+2000       7,711440         15,879381        393925           95696            
+3000       12,876099        23,292362        797404           240885           
+4000       19,841539        33,621662        1311386          360285           
+5000       28,414398        44,954023        1964935          560470           

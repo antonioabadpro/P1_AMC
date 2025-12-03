@@ -1,0 +1,9 @@
+ Fichero creado por Antonio Abad Hernandez Galvez
+
+           ExhaustivoPoda   DyVMejorado      ExhaustivoPoda   DyVMejorado     
+Talla      Tiempo (ms)      Tiempo (ms)      Calculadas       Calculadas      
+1000       13,132661        7,674640         49950000         54583            
+2000       63,747382        25,695661        249850000        162927           
+3000       179,556903       54,402941        699700000        456826           
+4000       380,020164       95,074242        1499500000       672434           
+5000       687,249545       145,831363       2749250000       1059287          

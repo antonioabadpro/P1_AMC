@@ -1,0 +1,9 @@
+ Fichero creado por Antonio Abad Hernandez Galvez
+
+           Exhaustivo       ExhaustivoPoda   Exhaustivo       ExhaustivoPoda  
+Talla      Tiempo (ms)      Tiempo (ms)      Calculadas       Calculadas      
+1000       34,786380        3,008120         49950000         131523           
+2000       143,072620       9,227640         249850000        421410           
+3000       385,292920       18,739920        699700000        834857           
+4000       811,764400       31,744100        1499500000       1375570          
+5000       1458,414040      47,751380        2749250000       2051950          

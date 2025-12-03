@@ -1,0 +1,9 @@
+ Fichero creado por Antonio Abad Hernandez Galvez
+
+           Exhaustivo       ExhaustivoPoda   DivideVenceras   DyVMejorado     
+Talla      Tiempo (ms)      Tiempo (ms)      Tiempo (ms)      Tiempo (ms)     
+1000       11,557160        12,051860        12,151020        7,183400         
+2000       57,821360        59,789980        61,830360        24,821940        
+3000       161,611740       168,548340       171,453280       52,788100        
+4000       348,328880       363,570580       366,864440       92,920500        
+5000       642,439920       667,960920       673,360940       144,635220       
