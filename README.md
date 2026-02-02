@@ -4,7 +4,7 @@
 ![IDE](https://img.shields.io/badge/IDE-NetBeans%2022-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-Repositorio oficial para la **Práctica 1 de la asignatura Algorítmica y Modelos de Computación (AMC)**. Este proyecto implementa y compara diferentes estrategias algorítmicas para resolver el clásico **Problema de los Pares de Puntos más Cercanos** en un plano 2D.
+Repositorio de la **Práctica 1 de la asignatura Algorítmica y Modelos de Computación (AMC)**. Este proyecto implementa y compara diferentes estrategias algorítmicas para resolver el clásico **Problema de los Pares de Puntos más Cercanos** en un plano 2D.
 
 El objetivo principal es realizar un estudio empírico de la eficiencia temporal, contrastando la complejidad teórica con los resultados reales de ejecución.
 
@@ -43,7 +43,7 @@ Se han desarrollado 4 estrategias comparables:
 * **IDE:** NetBeans 22.
 * **Interfaz Gráfica (GUI):** Java Swing (diseño de formularios y visualización).
 * **Librerías Externas:**
-    * `JFreeChart`: Para la generación de gráficas de rendimiento (Talla vs Tiempo).
+    * `JFreeChart`: Para la generación de gráficas de rendimiento (Talla VS Tiempo).
 
 ## 📊 Funcionalidades de la Aplicación
 
@@ -70,8 +70,7 @@ Se han desarrollado 4 estrategias comparables:
   </tr>
   <tr>
     <td> Gráfica Comparación </td>
-    <td> <img width="985" height="993" alt="Comparativa_Todos_Caso_Peor" src="https://github.com/user-attachments/assets/0cee134b-ab20-48ed-9688-4aafc3576828" />
- </td>
+    <td> <img width="985" height="993" alt="Comparativa_Todos_Caso_Peor" src="https://github.com/user-attachments/assets/0cee134b-ab20-48ed-9688-4aafc3576828" /> </td>
   </tr>
   <tr>
     <td> Créditos </td>
@@ -82,14 +81,14 @@ Se han desarrollado 4 estrategias comparables:
 ## ⚙️ Instalación y Ejecución
 
 ### Requisitos Previos
-* Java Development Kit (JDK) 21 instalado.
+* Java Development Kit (JDK) 21.
 * NetBeans 22 (recomendado) o cualquier otro IDE compatible con proyectos Ant/Maven.
 
 ### Pasos para ejecutar
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/antonioabadpro/P1_AMC.git](https://github.com/antonioabadpro/P1_AMC.git)
+    git clone [https://github.com/antonioabadpro/P1_AMC.git]
     ```
 2.  **Abrir en NetBeans:**
     * `File` -> `Open Project` -> Seleccionar la carpeta clonada.
@@ -101,7 +100,7 @@ Se han desarrollado 4 estrategias comparables:
 
 [![Memoria Técnica](https://img.shields.io/badge/PDF-Ver_Memoria_Técnica-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./PRACTICA%201_ESTRATEGIAS%20ALGORÍTMICAS_AAHG.pdf)
 
-> **Nota:** Haz clic en el botón de arriba para visualizar o descargar el análisis completo en PDF, donde se incluyen las demostraciones matemáticas y las tablas de tiempos detalladas.
+> **Nota:** Haz clic en el botón de arriba para visualizar o descargar el análisis completo en PDF, donde se explican las diferentes estrategias utilizadas, las comparativas detalladas con sus respectivas tablas de tiempos y la conclusión.
 
 ## ​💭​ Conclusión
 El estudio realizado (detallado en el documento adjunto) concluye que:
